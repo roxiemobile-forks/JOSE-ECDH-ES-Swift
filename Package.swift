@@ -22,7 +22,7 @@ let package = Package(
     dependencies: [
         .package(
             url: "https://github.com/krzyzanowskim/CryptoSwift",
-            .upToNextMinor(from: "1.6.0")
+            .upToNextMinor(from: "1.4.3")
         ),
         .package(
             url: "https://github.com/airsidemobile/JOSESwift",
